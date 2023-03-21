@@ -22,3 +22,6 @@ We welcome contributions from the developer community. Feel free to open issues 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Project Roadmap
+
+For more information on the project's planned milestones and features, please see the [ROADMAP.md](ROADMAP.md) file.
